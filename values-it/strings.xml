@@ -10,7 +10,7 @@
     <string name="showPhotos_summary">Volete le foto delle persone che devono figurare nella lista?</string>
     <string name="nextBirthdayOnWeekDay">Il prossimo compleanno è di</string>
     <string name="nextAnniversaryOnWeekDay">L\'anniversario successivo è di</string>
-    <string name="tipDontEnterYear"><b>Accennare:</b> Non voglio entrare in qualsiasi anno? Basta digitare \"1900\" e l\'anno non verrà mostrato.</string>
+    <string name="tipDontEnterYear"><b>Suggerimento:</b> Non voglio mostrare l\'anno? Basta digitare \"1900\" e l\'anno non verrà mostrato.</string>
     <string name="contactPhoto">Foto dei contatti</string>
     <string name="daysLeftUnit">giorni</string>
     <string name="noBirthdaysFound">Impossibile trovare i compleanni nel tuo elenco di contatti!</string>
@@ -29,7 +29,7 @@
     <string name="birthday">Compleanno</string>
     <string name="yearsOld">anni</string>
     <string name="loading">Caricamento</string>
-    <string name="fullTextConvinced">Questa applicazione ti ha convinto? Saremmo molto felici se tu potessi votare la nostra applicazione su Google Play. Grazie per il vostro supporto!</string>
+    <string name="fullTextConvinced">Questa applicazione ti ha soddisfatto? Saremmo molto felici se tu potessi votare la nostra applicazione su Google Play. Grazie per il vostro supporto!</string>
     <string name="rateApp">Vota questa app</string>
     <string name="rateNow">Vota ora</string>
     <string name="remindLater">Più tardi</string>
@@ -58,9 +58,9 @@
     <string name="notification_1">1 giorno prima</string>
     <string name="notification_2">2 giorni prima</string>
     <string name="notification_7">1 settimana prima</string>
-    <string name="notification_time">Tempo per le notifiche</string>
+    <string name="notification_time">Ora delle notifiche</string>
     <string name="notification_sound">Suono per le notifiche</string>
-    <string name="notification_sound_desc">Scegliere una suoneria o renderlo \"Silenzioso\"</string>
+    <string name="notification_sound_desc">Scegliere una suoneria o renderla \"Silenziosa\"</string>
     <string name="setTime">Impostare il tempo preferito &#8230;</string>
     <string name="notificationsForBirthdays">Notifiche per i compleanni</string>
     <string name="caption_adding_mode">Aggiunta di una nuova voce</string>
@@ -79,7 +79,7 @@
 	<string name="zodiac_cancer">Cancro</string>
 	<string name="zodiac_leo">Leone</string>
 	<string name="zodiac_virgo">Vergine</string>
-	<string name="zodiac_libra">Libra</string>
+	<string name="zodiac_libra">Bilancia</string>
 	<string name="zodiac_scorpio">Scorpione</string>
 	<string name="zodiac_sagittarius">Sagittario</string>
 	<string name="zodiac_capricornus">Capricorno</string>
@@ -176,7 +176,7 @@
     <string name="pick_predefined_image">Selezionare archivio di immagini</string>
     <string name="image_provided_by">Questa immagine è stata fornita da</string>
     <string name="helpTranslating">Aiuto traduzione</string>
-    <string name="translationHelpHowto">Si prega di aprire nel browser sul computer desktop (per una migliore leggibilità e la modifica):\nhttp://birthdays.latein.me/</string>
+    <string name="translationHelpHowto">Si prega di aprire nel browser del proprio computer (per una migliore leggibilità) il seguente LINK:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Menu principale</string>
 	<string name="mode_translate">Tradurre</string>
 	<string name="days_abbreviation">g</string>
