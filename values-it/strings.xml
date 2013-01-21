@@ -19,7 +19,7 @@
     <string name="pleaseWait">Si prega di attendere</string>
     <string name="refreshingList">Aggiornamento della lista &#8230;</string>
     <string name="bornOn">Data di nascita:</string>
-    <string name="anniversaryOn">Anniversary:</string>
+    <string name="anniversaryOn">Anniversario:</string>
     <string name="age">Età:</string>
     <string name="yearsMarried">Da:</string>
     <string name="years">anni</string>
@@ -68,7 +68,7 @@
 	<string name="adding_mode_contacts">scegliere tra i contatti</string>
 	<string name="adding_mode_newentry">senza contatto telefonico</string>
 	<string name="mode_search">Cerca</string>
-	<string name="searchNoResult">Impossibile trovare una persona nel tuo elenco delle corrispondenze questo nome!</string>
+	<string name="searchNoResult">Impossibile trovare una persona nel tuo elenco delle corrispondenze con questo nome!</string>
 	<string name="findPerson">Trova una persona</string>
 	<string name="searchPerson">Cerca una persona &#8230;</string>
 	<string name="hint_search_mode">Durante la ricerca di una persona nella tua lista dei compleanni, digitare una parte del nome di solito è sufficiente.</string>
@@ -144,14 +144,14 @@
 	<string name="install">Installa adesso</string>
 	<string name="missing_addon_title">Compleanni Plus</string>
 	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora libero di questa app. Utilizza ulteriori autorizzazioni (accesso a Internet e scheda SD) per offrire una migliore funzionalità. Basta visitare Google Play per ottenere l\'applicazione estesa e godere di grande funzionalità. Prova - è gratis!</string>
-    <string name="show_help">Mostra di aiuto</string>
-    <string name="rate_app">Tasso di app</string>
+    <string name="show_help">Mostra aiuto</string>
+    <string name="rate_app">Valutazione della App.</string>
     <string name="export_fail">Siamo spiacenti, l\'esportazione dei dati non può essere avviata!</string>
     <string name="loading_facebook">Caricamento dei dati da Facebook &#8230;</string>
     <string name="notification_close">Notifica Chiudi</string>
-    <string name="notification_remind1">Ricorda di nuovo in 15min</string>
-    <string name="notification_remind2">Ricorda di nuovo in 1h</string>
-    <string name="notification_remind3">Ricorda di nuovo in 6h</string>
+    <string name="notification_remind1">Ricorda di nuovo fra 15min</string>
+    <string name="notification_remind2">Ricorda di nuovo fra 1h</string>
+    <string name="notification_remind3">Ricorda di nuovo fra 6h</string>
     <string name="importing_entries">Importare le voci selezionate. Questa operazione può richiedere alcuni minuti &#8230;</string>
     <string name="open_app">Apri app</string>
     <string-array name="default_images">
@@ -186,7 +186,7 @@
 	<string name="merge_with_contact">Unisci con contatto</string>
 	<string name="merge_explanation">Vuoi unire questa voce con un contatto telefonico esistente?</string>
 	<string name="entry_merged">La voce è stata fusa con il contatto selezionato.</string>
-	<string name="contacts_app_not_found">L\'applicazione contatti non è stato trovato sul tuo dispositivo!</string>
+	<string name="contacts_app_not_found">L\'applicazione contatti non è stata trovata sul tuo dispositivo!</string>
 	<string name="defaultDateFormat">AAAA-MM-GG</string>
 	<string name="show_datepicker">Selezione facile della data</string>
 	<string name="show_datepicker_on">Un modo conveniente per la selezione della data che consente di scegliere il giorno, mese e anno da un elenco.</string>
@@ -210,7 +210,7 @@
     <string name="new_version_get">Una nuova versione di questa app con caratteristiche migliorate è disponibile su Google Play. Vuoi ottenere l\'aggiornamento ora?</string>
     <string name="do_download">Scarica</string>
     <string name="do_ignore">Ignorare</string>
-    <string name="supportAndFeedback">Domande &#38; Retroazione</string>
+    <string name="supportAndFeedback">Domande &#38; Commenti</string>
     <string name="person_actions">Altre opzioni</string>
     <string name="save_note">Salvare una nota</string>
     <string name="delete_image">Elimina immagine</string>
